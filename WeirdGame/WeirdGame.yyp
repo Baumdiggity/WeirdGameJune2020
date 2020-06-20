@@ -154,7 +154,7 @@
             "Key": "6c9c115b-edfb-49de-aae8-a30166ddf670",
             "Value": {
                 "id": "41ab8ee2-099b-485d-8cca-286e603355d0",
-                "resourcePath": "objects\\obj_bush\\obj_bush.yy",
+                "resourcePath": "objects\\obj_playerBush\\obj_playerBush.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -220,6 +220,14 @@
                 "id": "a399071d-a40c-487e-93c9-29b88c757d63",
                 "resourcePath": "views\\9cd73ebb-c002-461b-bd89-e7b0473a8c31.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9ea18ff5-e21e-4b18-9fdb-3f2628365cfb",
+            "Value": {
+                "id": "fe9de808-21d3-4725-b478-f6f67907e331",
+                "resourcePath": "objects\\obj_bush\\obj_bush.yy",
+                "resourceType": "GMObject"
             }
         },
         {
