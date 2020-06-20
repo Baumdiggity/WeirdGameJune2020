@@ -138,7 +138,7 @@
             "Key": "712f1ade-bf51-4d96-ba11-140ee4182cab",
             "Value": {
                 "id": "0396bb5c-4ce7-4412-b655-5785fa5171cb",
-                "resourcePath": "rooms\\TESTING123\\TESTING123.yy",
+                "resourcePath": "rooms\\rm_TESTING123\\rm_TESTING123.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -186,7 +186,7 @@
             "Key": "ba45b5b7-04eb-49b6-a4d4-dab1c95531e9",
             "Value": {
                 "id": "8923fe2b-0347-44f0-bb63-3ee36ecbf3a0",
-                "resourcePath": "sprites\\TestSprite\\TestSprite.yy",
+                "resourcePath": "sprites\\spr_Test\\spr_Test.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -226,7 +226,7 @@
             "Key": "ff20ebab-c885-452f-a4c7-3a2ebffca6d2",
             "Value": {
                 "id": "d2207156-4cc9-44cd-b71f-349c1b479c50",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\rm_room0\\rm_room0.yy",
                 "resourceType": "GMRoom"
             }
         }
