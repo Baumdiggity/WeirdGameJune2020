@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "2d9482d3-b28a-4322-9797-436c8da03eb0",
+            "Value": {
+                "id": "5d737bef-9331-4c5b-8f40-bcd1c02c24fb",
+                "resourcePath": "sprites\\spr_camera\\spr_camera.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2ec6e054-d477-45f0-834d-864c2ec0c420",
             "Value": {
                 "id": "d49ad883-6220-44c1-a9a3-52cd98c64726",
