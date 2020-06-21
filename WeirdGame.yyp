@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "229de9b7-5870-45b6-aa01-e3dae34bfd2b",
+            "Value": {
+                "id": "d69b4583-4a30-4e36-9f80-c1e7bb8c9a84",
+                "resourcePath": "sprites\\spr_player\\spr_player.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "29202184-647e-4c5e-8cb4-a01ab1abd16a",
             "Value": {
                 "id": "dc34b8da-33a2-4b0e-9f1b-ad4356a05e5f",
@@ -370,7 +378,7 @@
             "Key": "e6379a75-a1f7-425a-b7d4-588ca6e6b024",
             "Value": {
                 "id": "e1312b6a-8e14-4020-9ebe-49c41c33f243",
-                "resourcePath": "sprites\\sprite8\\sprite8.yy",
+                "resourcePath": "sprites\\spr_sword\\spr_sword.yy",
                 "resourceType": "GMSprite"
             }
         },
