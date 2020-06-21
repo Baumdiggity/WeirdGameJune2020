@@ -3,6 +3,17 @@ if collision_circle(x,y,240,obj_player,false,true)
 	state =3;
 }
 
+if collision_circle(x,y,100,obj_player,false,true)
+{
+	show_debug_message("player collision")
+}
+
+if collision_circle(x,y,100,obj_weapon,false,true)
+{
+	instance_destroy();
+	show_debug_message("kill")
+}
+
 
 switch(state)
 {

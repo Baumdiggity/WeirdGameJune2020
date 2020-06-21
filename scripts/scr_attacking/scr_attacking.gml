@@ -1,10 +1,10 @@
 /* Attack */ 
 if (attacked = false){
 	switch (attack_dir){
-		case 1: instance_create_layer(x, y-64, "instances", obj_weapon); break; //up
-		case 2: instance_create_layer(x, y+64, "instances", obj_weapon); break; //down
-		case 3: instance_create_layer(x-64, y, "instances", obj_weapon); break; //left
-		case 4: instance_create_layer(x+64, y, "instances", obj_weapon); break; //right
+		case 1: instance_create_layer(x-5, y-16, "instances", obj_weapon);obj_weapon.image_yscale= -1; break; //up
+		case 2: instance_create_layer(x-5, y+64, "instances", obj_weapon); break; //down
+		case 3: instance_create_layer(x-32, y+20, "instances", obj_weapon);obj_weapon.image_angle = -90; break; //left
+		case 4: instance_create_layer(x+32, y+40, "instances", obj_weapon);obj_weapon.image_angle = 90; break; //right
 	}
 	
 	attacked = true;
