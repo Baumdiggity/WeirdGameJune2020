@@ -104,9 +104,37 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0",
+            "value": "3",
             "varName": "state",
             "varType": 1
+        },
+        {
+            "id": "412e6292-e94f-4dba-9741-9f152a2b91f8",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "followX",
+            "varType": 1
+        },
+        {
+            "id": "2a1e0e82-7fc5-4bdf-a887-b6fb69b2faf6",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "followY",
+            "varType": 0
         }
     ],
     "solid": true,
