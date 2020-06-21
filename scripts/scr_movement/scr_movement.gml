@@ -5,7 +5,10 @@ if (keyboard_check(ord("W"))) || (keyboard_check(vk_up)){
 				y -= sign(spd);
 			}	
 		}
-		else y -= spd;
+		else{
+		y -= spd;
+		attack_dir = 1
+	}
 }
 
 if (keyboard_check(ord("S"))) || (keyboard_check(vk_down)){
@@ -14,7 +17,10 @@ if (keyboard_check(ord("S"))) || (keyboard_check(vk_down)){
 				y += sign(spd);
 			}	
 		}
-		else y += spd;
+		else{
+		y += spd;
+		attack_dir = 2
+	}
 }
 
 if (keyboard_check(ord("A"))) || (keyboard_check(vk_left)){
@@ -23,7 +29,10 @@ if (keyboard_check(ord("A"))) || (keyboard_check(vk_left)){
 				x -= sign(spd);
 			}	
 		}
-		else x -= spd;
+		else{
+			x -= spd;
+			attack_dir = 3;
+		}
 }
 
 if (keyboard_check(ord("D"))) || (keyboard_check(vk_right)){
@@ -32,7 +41,10 @@ if (keyboard_check(ord("D"))) || (keyboard_check(vk_right)){
 				x += sign(spd);
 			}	
 		}
-		else x += spd;
+		else{
+			x += spd;
+			attack_dir = 4;
+		}
 }
 
 //attack key
