@@ -1,5 +1,6 @@
 /* state machine */
 enum states{
 	normal,
-	attacking
+	attacking,
+	gameover
 }

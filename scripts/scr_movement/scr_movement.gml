@@ -76,3 +76,6 @@ if (keyboard_check(ord("D"))) || (keyboard_check(vk_right)){
 
 //attack key
 if (keyboard_check_pressed(vk_space)) state = states.attacking;
+
+//debug
+if (keyboard_check_pressed(ord("M"))) state = states.gameover;
