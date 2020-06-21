@@ -9,18 +9,22 @@ switch(state)
 	destY = random(room_height);
 }
 
+
 if(distance_to_point(destX,destY)<5)
 {
 state = 2;
 show_debug_message(state);
+do{
 	destX = random(room_width);
 	destY = random(room_height);
+}until(!place_meeting(destX,destY,obj_wall))
 	break;
 }
 else
 {
-	
+	//while !place_meeting(x, y-sign(enemySpeed), obj_wall){
 	mp_potential_step(destX,destY,enemySpeed,false);
+	//}
 }
 	}
 	break;
