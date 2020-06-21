@@ -1,3 +1,3 @@
-spdMax = 3;
+spd = 2;
+spdMax = 2;
 spdMin = 0;
-spd = 1;
