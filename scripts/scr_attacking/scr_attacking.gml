@@ -8,4 +8,15 @@ if (attacked = false){
 	}
 	
 	attacked = true;
+	show_debug_message("die bitch");
+}
+
+if (instance_exists(obj_weapon)){
+	time ++;
+	if (time == 5){
+		instance_destroy(obj_weapon);
+		attacked = false;
+		state = states.normal;
+		time = 0;
+	}
 }
