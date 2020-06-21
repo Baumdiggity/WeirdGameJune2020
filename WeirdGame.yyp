@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "51b5e7da-1a8a-4225-8d12-dbfde7c13ac3",
+            "Value": {
+                "id": "c54b1521-f16d-43c6-aa69-6b9e83ff6165",
+                "resourcePath": "sprites\\spr_coin\\spr_coin.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "538b84fa-86a0-4a87-86af-bd73cb9c648e",
             "Value": {
                 "id": "316abb8d-69cd-46a1-8250-1d6f1df69389",
