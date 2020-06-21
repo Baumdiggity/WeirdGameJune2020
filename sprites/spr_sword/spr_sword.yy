@@ -2,7 +2,7 @@
     "id": "e6379a75-a1f7-425a-b7d4-588ca6e6b024",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite8",
+    "name": "spr_sword",
     "For3D": false,
     "HTile": false,
     "VTile": false,
