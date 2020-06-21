@@ -405,14 +405,6 @@
                 "resourcePath": "sprites\\spr_test_bush\\spr_test_bush.yy",
                 "resourceType": "GMSprite"
             }
-        },
-        {
-            "Key": "ff87996e-402e-4b71-bee9-403bf024ac2f",
-            "Value": {
-                "id": "3cfb4708-2270-4ac2-afa6-ae30b7f9ef96",
-                "resourcePath": "objects\\obj_weapon\\obj_weapon.yy",
-                "resourceType": "GMObject"
-            }
         }
     ],
     "script_order": [
