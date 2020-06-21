@@ -1,0 +1,2 @@
+/* Attack */ 
+state = states.normal;

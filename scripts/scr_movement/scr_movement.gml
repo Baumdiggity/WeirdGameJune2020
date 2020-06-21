@@ -34,3 +34,6 @@ if (keyboard_check(ord("D"))) || (keyboard_check(vk_right)){
 		}
 		else x += spd;
 }
+
+//attack key
+if (keyboard_check_pressed(vk_space)) state = states.attacking;
