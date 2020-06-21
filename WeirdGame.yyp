@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "6396d119-2187-4e57-bfb2-e1842fc182ab",
+            "Value": {
+                "id": "f20d9434-f5b9-465c-82d7-f381cc3edd34",
+                "resourcePath": "objects\\obj_weapon\\obj_weapon.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "67023926-8529-4a8a-88f3-b8ceab06ba94",
             "Value": {
                 "id": "f8165b6f-507b-4f6e-abb4-d2a90b85f6aa",
@@ -412,14 +420,6 @@
                 "id": "e77e42bd-17a9-4032-b757-e6b19f33bd6b",
                 "resourcePath": "sprites\\spr_test_bush\\spr_test_bush.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "ff391381-c5e5-45b2-a06a-89416c685a2b",
-            "Value": {
-                "id": "b7577896-7814-4e99-9c8c-7c378d8cfe76",
-                "resourcePath": "objects\\obj_weapo\\obj_weapo.yy",
-                "resourceType": "GMObject"
             }
         }
     ],

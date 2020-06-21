@@ -1,5 +1,5 @@
 {
-    "id": "ff87996e-402e-4b71-bee9-403bf024ac2f",
+    "id": "6396d119-2187-4e57-bfb2-e1842fc182ab",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "obj_weapon",
