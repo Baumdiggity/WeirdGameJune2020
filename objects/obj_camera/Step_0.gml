@@ -1,3 +1,3 @@
 /// @description Follow Player
-x += (obj_player.x - x) * .1;
-y += (obj_player.y - y) * .1;
+x += (playerToFollow.x - x) * .1;
+y += (playerToFollow.y - y) * .1;

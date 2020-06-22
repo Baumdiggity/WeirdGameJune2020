@@ -311,6 +311,14 @@
             }
         },
         {
+            "Key": "953ced13-c0d0-4d1d-aab2-597892e85d60",
+            "Value": {
+                "id": "bd3ed262-d0b9-4aaf-9820-1fdd8c457377",
+                "resourcePath": "scripts\\scr_hero_chase\\scr_hero_chase.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "9cd73ebb-c002-461b-bd89-e7b0473a8c31",
             "Value": {
                 "id": "a399071d-a40c-487e-93c9-29b88c757d63",
@@ -332,6 +340,14 @@
                 "id": "4685b31b-6fcf-44df-a135-55cb43bea515",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "a9634fd6-b0bb-4dcc-a36a-6120d6e47f90",
+            "Value": {
+                "id": "696c94fd-4529-4b91-9626-9a052b8771a0",
+                "resourcePath": "scripts\\scr_swap_player\\scr_swap_player.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -484,7 +500,9 @@
         "119ecfbf-5fce-41c9-aa19-bdda128d28b3",
         "47a5a343-8d20-4450-8c5b-d854b7fdc1c3",
         "14bcb6fa-0d61-498b-94ae-0b0dd38fa266",
-        "7b1949c8-e03a-401e-859e-8097ba181aa5"
+        "7b1949c8-e03a-401e-859e-8097ba181aa5",
+        "a9634fd6-b0bb-4dcc-a36a-6120d6e47f90",
+        "953ced13-c0d0-4d1d-aab2-597892e85d60"
     ],
     "tutorial": ""
 }

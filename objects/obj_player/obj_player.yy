@@ -41,7 +41,22 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "99dc5b61-97d6-4901-9c39-709a17a74240",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "chasing",
+            "varType": 0
+        }
+    ],
     "solid": false,
     "spriteId": "229de9b7-5870-45b6-aa01-e3dae34bfd2b",
     "visible": true

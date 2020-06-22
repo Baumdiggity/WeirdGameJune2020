@@ -2,5 +2,6 @@
 enum states{
 	normal,
 	attacking,
-	gameover
+	gameover,
+	chase
 }
