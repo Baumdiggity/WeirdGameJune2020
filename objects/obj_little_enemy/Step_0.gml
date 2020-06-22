@@ -73,8 +73,8 @@ switch(state)
 	case 5:scr_movement();
 	if (spd < spdMin) {
 	spd = spdMax;
-	spd = spd-delta_time/1000000;
 	}
+	spd = spd-delta_time/1000000;
 	break;
 	
 	default: show_debug_message(object_index + "invalid state")
