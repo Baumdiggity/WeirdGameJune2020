@@ -35,10 +35,6 @@ if (keyboard_check(ord("A"))) || (keyboard_check(vk_left)){
 			while !place_meeting(x-sign(spd), y, obj_wall){
 				x -= sign(spd);
 				attack_dir = 3;
-				if(image_xscale != -1)
-				{
-					image_xscale = -1;
-				}
 			}	
 		}
 		else{
@@ -57,10 +53,6 @@ if (keyboard_check(ord("D"))) || (keyboard_check(vk_right)){
 			while !place_meeting(x+sign(spd), y, obj_wall){
 				x += sign(spd);
 				attack_dir = 4;
-				if(image_xscale != 1)
-				{
-					image_xscale = 1;
-				}
 			}	
 		}
 		else{

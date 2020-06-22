@@ -72,9 +72,9 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "3",
+            "value": "1",
             "varName": "enemySpeed",
-            "varType": 1
+            "varType": 0
         },
         {
             "id": "68eabb15-f7ba-4291-bdcc-9a3dd451b6a9",
@@ -88,7 +88,7 @@
             "resourceFilter": 1023,
             "value": "-1",
             "varName": "destX",
-            "varType": 1
+            "varType": 0
         },
         {
             "id": "0b5e5bc3-e08e-4e1b-9225-2e93b4458ba4",
@@ -102,7 +102,7 @@
             "resourceFilter": 1023,
             "value": "-1",
             "varName": "destY",
-            "varType": 1
+            "varType": 0
         },
         {
             "id": "6854f509-ff07-4677-b0a0-6ec359a46124",
@@ -119,7 +119,7 @@
             "varType": 1
         },
         {
-            "id": "412e6292-e94f-4dba-9741-9f152a2b91f8",
+            "id": "7586c06b-a2bb-41ad-806a-f9038d139147",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -128,23 +128,9 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0",
-            "varName": "followX",
-            "varType": 1
-        },
-        {
-            "id": "2a1e0e82-7fc5-4bdf-a887-b6fb69b2faf6",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0",
-            "varName": "followY",
-            "varType": 0
+            "value": "False",
+            "varName": "chased",
+            "varType": 3
         }
     ],
     "solid": true,

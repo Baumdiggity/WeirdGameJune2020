@@ -54,7 +54,7 @@
             "resourceFilter": 1023,
             "value": "0",
             "varName": "chasing",
-            "varType": 0
+            "varType": 3
         }
     ],
     "solid": false,

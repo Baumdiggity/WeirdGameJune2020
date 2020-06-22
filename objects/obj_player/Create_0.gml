@@ -10,3 +10,5 @@ time = 0;
 
 //animation
 image_speed = 0;
+
+creatureToFollow = instance_find(obj_little_enemy,random(instance_number(obj_little_enemy)));
